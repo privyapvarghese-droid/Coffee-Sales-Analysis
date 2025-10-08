@@ -1,6 +1,6 @@
 # Coffee-Sales-Analysis
 
-This project focuses on analyzing coffee sales data to uncover key insights into customer purchasing patterns, top-selling products, and overall business performance. The goal is to transform raw sales data into meaningful visualizations that help drive strategic decisions for increasing sales and improving operations.
+    This project focuses on analyzing coffee sales data to uncover key insights into customer purchasing patterns, top-selling products, and overall business performance. The goal is to transform raw sales data into meaningful visualizations that help drive strategic decisions for increasing sales and improving operations.
 
 OBJECTIVES
 
@@ -16,7 +16,7 @@ OBJECTIVES
 
 DATASET DESCRIPTION
 
-The dataset contains daily and monthly sales records of various coffee beverages.
+     The dataset contains daily and monthly sales records of various coffee beverages.
 It includes the following columns:
 
 Column & Description
@@ -65,7 +65,7 @@ Dashboard layout and formatting
 
 CONCLUSION
 
-This Coffee Sales Analysis Dashboard highlights key trends in product and monthly performance.
+    This Coffee Sales Analysis Dashboard highlights key trends in product and monthly performance.
 By identifying best-selling items and understanding sales patterns, businesses can:
 
 Focus marketing efforts on high-demand coffee types.
