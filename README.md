@@ -4,8 +4,6 @@ This project focuses on analyzing coffee sales data to uncover key insights into
 
 Objectives
 
-..........
-
 -Understand overall sales performance across different time periods.
 
 -Identify top-performing coffee products and regions.
